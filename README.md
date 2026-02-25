@@ -227,7 +227,7 @@ slmgr /ato
 
 If this guide saved you time, consider leaving a ⭐ — it helps others find this repo!
 
-[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20Repo-302b63?style=for-the-badge)]([https://github.com/elfordanson/windows_11_pro_productkey_activation](https://github.com/ardarodi/windows11-pro-activation-guide/))
+[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20Repo-302b63?style=for-the-badge)](https://github.com/ardarodi/windows11-pro-activation-guide/)
 [![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardarodi)
 
 <br/>
